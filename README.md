@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Calboshal
-- 👀 I’m interested in ... Azure
-- 🌱 I’m currently learning ...AKS
-- 💞️ I’m looking to collaborate on ... everything azure!
+- 👀 I’m interested in ... Cloud!
+- 🌱 I’m currently learning ...Data & AI
+- 💞️ I’m looking to collaborate on ... everything Cloud!
 - 📫 How to reach me ... laitorinik@gmail.com
 
 <!---
